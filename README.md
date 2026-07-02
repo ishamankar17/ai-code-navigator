@@ -6,14 +6,18 @@ An AI-powered app that helps you understand any codebase by asking questions in 
  
 ## 📸 Screenshots
  
-> *(Add your screenshots here)*
- 
-<!-- Example:
-![Parsing a repo](<img width="1522" height="916" alt="image" src="https://github.com/user-attachments/assets/53b9a133-2da0-4e91-a929-5949e2654909" />
+### Parsing a Repository
+<!-- Replace the line below with your screenshot -->
+![Parsing a repo](screenshots/<img width="1456" height="932" alt="image" src="https://github.com/user-attachments/assets/8a16b822-f58e-4803-97f7-fa543c43caee" />
 )
+ 
+### Asking a Question
+<!-- Replace the line below with your screenshot -->
 ![Asking a question](screenshots/ask.png)
-![Retrieved chunks panel](screenshots/chunks.png)
--->
+ 
+### Retrieved Chunks Panel
+<!-- Replace the line below with your screenshot -->
+![Retrieved chunks](screenshots/chunks.png)
  
 ---
 
