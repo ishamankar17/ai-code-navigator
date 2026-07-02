@@ -12,7 +12,7 @@ An AI-powered app that helps you understand any codebase by asking questions in 
 
 ### Asking a Question
 
-<img width="1652" height="915" alt="image" src="https://github.com/user-attachments/assets/40c3590b-4b65-4ce1-a25c-84296d4f990a" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/40c3590b-4b65-4ce1-a25c-84296d4f990a" />
 
 
 ### Retrieved Chunks Panel
