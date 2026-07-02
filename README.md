@@ -8,7 +8,7 @@ An AI-powered app that helps you understand any codebase by asking questions in 
  
 ### Parsing a Repository
 
-<img width="1456" alt="Parsing a Repository" src="https://github.com/user-attachments/assets/8a16b822-f58e-4803-97f7-fa543c43caee" />
+<img width="800" alt="Parsing a Repository" src="https://github.com/user-attachments/assets/8a16b822-f58e-4803-97f7-fa543c43caee" />
 
 ### Asking a Question
 
