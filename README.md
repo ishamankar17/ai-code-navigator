@@ -8,7 +8,7 @@ An AI-powered app that helps you understand any codebase by asking questions in 
  
 ### Parsing a Repository
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/884d902a-7c62-43e7-916d-7397b02323bc" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/884d902a-7c62-43e7-916d-7397b02323bc" />
 
 ### Asking a Question
 
@@ -17,8 +17,9 @@ An AI-powered app that helps you understand any codebase by asking questions in 
 
 ### Retrieved Chunks Panel
 
-<img width="1456" alt="Retrieved Chunks Panel" src="YOUR_THIRD_IMAGE_LINK" />
-![Retrieved Chunks Panel](https://github.com/user-attachments/assets/8a16b822-f58e-4803-97f7-fa543c43caee)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/9f02b009-3400-4ba3-adba-2b7866bd6929" />
+
+
 ---
 
 ## ✨ Features
