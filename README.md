@@ -3,6 +3,19 @@
 An AI-powered app that helps you understand any codebase by asking questions in plain English. Upload a GitHub repository or paste code, and the AI answers using the actual code with a Retrieval-Augmented Generation (RAG) pipeline.
 
 ---
+ 
+## 📸 Screenshots
+ 
+> *(Add your screenshots here)*
+ 
+<!-- Example:
+![Parsing a repo](<img width="1522" height="916" alt="image" src="https://github.com/user-attachments/assets/53b9a133-2da0-4e91-a929-5949e2654909" />
+)
+![Asking a question](screenshots/ask.png)
+![Retrieved chunks panel](screenshots/chunks.png)
+-->
+ 
+---
 
 ## ✨ Features
 
